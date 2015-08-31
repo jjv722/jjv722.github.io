@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 1 Post"
 date:   2015-08-30 20:34:43
-categories: jekyll update
+categories: week-1-Blog
 ---
 
 This blog was a bit of a hassle to get up and running, but since I seem to have accomplished this, I guess the next step would be to
@@ -14,5 +14,5 @@ stepping through the code while explaining new programming concepts, making it e
 
 Setting up this blog was enjoyable as well. I had never used jekyll , or heard of it,  before so it was a bit of a learning curve, but I seem to have gotten it working properly. I'll probably check in with the Professor or TA's tomorrow to make sure everything is in order with this blog. I hope that the fact that I wouldn't have to set this platform up again will allow me to raise the quality of my blogs, but other than that, I am really looking forward to OOP.
 
-<h2>Tip of the Week: </h2> 
+<h2>Tip of the Week: </h2>
 Homebrew makes it easy to install software on the Mac :)
