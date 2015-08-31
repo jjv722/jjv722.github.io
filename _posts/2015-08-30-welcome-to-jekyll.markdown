@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Week 1 Post"
 date:   2015-08-30 20:34:43
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This blog was a bit of a hassle to get up and running, but since I seem to have accomplished this, I guess the next step would be to
+comment on the last two days of class. I really have been enjoying the structure of the class. It is very social atmosphere and was glad when Professor Downing made us meet two new people in the class, as it's not usually something I think much about when attending a CS course.
 
-Jekyll also offers powerful support for code snippets:
+Top Hat makes attendance easy and having the ability to submit my attendance from my phone lessens my worry about forgetting an iClicker, as I always worried that would occur to me. I also find that by Professor Downing calling on random students during class keeps me on the edge of my
+seat at all times by keeping me attentive at all times. While my C++ experience is fairly limited, it was nice to see that we were taking our time
+stepping through the code while explaining new programming concepts, making it easy to learn a language and new concepts at the same time.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Setting up this blog was enjoyable as well. I had never used jekyll , or heard of it,  before so it was a bit of a learning curve, but I seem to have gotten it working properly. I'll probably check in with the Professor or TA's tomorrow to make sure everything is in order with this blog. I hope that the fact that I wouldn't have to set this platform up again will allow me to raise the quality of my blogs, but other than that, I am really looking forward to OOP.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+<h2>Tip of the Week: </h2> 
+Homebrew makes it easy to install software on the Mac :)
