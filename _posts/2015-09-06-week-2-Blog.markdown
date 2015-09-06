@@ -5,7 +5,7 @@ date:   2015-09-06
 categories: week-2-Blog
 ---
 
-The real first week of class has allowed me to refresh some 312 and 314 OOP concepts while learning several new things
+The first real week of class has allowed me to refresh on some 312 and 314 OOP concepts while learning several new things
 about C++ and the collatz problem. I am glad that we went in depth with the requirements of the project in class while learning
 new concepts such as the different forms of caching that could be implemented with the collatz project.
 
@@ -23,4 +23,4 @@ This week's articles and web readings had great tips about topics that I don't u
 
 <h2>Tip of the Week: </h2>
 The atom text editor, which can be obtained from atom.io, has a package called remote edit which allows one to work on files stored on
-one's cs account from home with FTP and SFTP, which makes editing from home much easier. 
+one's cs account from home with FTP and SFTP, which makes editing from home much easier.
