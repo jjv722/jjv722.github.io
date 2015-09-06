@@ -1,19 +1,26 @@
 ---
 layout: post
 title:  "Week 2 Post"
-date:   2015-09-06 
+date:   2015-09-06
 categories: week-2-Blog
 ---
 
+The real first week of class has allowed me to refresh some 312 and 314 OOP concepts while learning several new things
+about C++ and the collatz problem. I am glad that we went in depth with the requirements of the project in class while learning
+new concepts such as the different forms of caching that could be implemented with the collatz project.
 
-This blog was a bit of a hassle to get up and running, but since I seem to have accomplished this, I guess the next step would be to
-comment on the last two days of class. I really have been enjoying the structure of the class. It is very social atmosphere and was glad when Professor Downing made us meet two new people in the class, as it's not usually something I think much about when attending a CS course.
+The daily quizzes have kept me on top of my game in terms of keeping up with the readings, and the Collatz project
+has made me stay involved with the class at all times. The quizzes aren't very difficult, and really appreciate the fact
+that the quizzes give hints towards the Collatz project and has made optimization before a cache much easier to implement.
 
-Top Hat makes attendance easy and having the ability to submit my attendance from my phone lessens my worry about forgetting an iClicker, as I always worried that would occur to me. I also find that by Professor Downing calling on random students during class keeps me on the edge of my
-seat at all times by keeping me attentive at all times. While my C++ experience is fairly limited, it was nice to see that we were taking our time
-stepping through the code while explaining new programming concepts, making it easy to learn a language and new concepts at the same time.
+I am really glad the textbook is very easy to read and has some great examples when going through the material. I was able to read
+both chapters in around 2 hours, but I'm sure as the material becomes more complicated, this time will increase. Not many "new" concepts were
+introduced, but it was night to get a refresher on encasuplation, inheritance, and abstractions. The readings did go into detail with abstractions, and also introduced vocabulary such as information hiding, but once again, it was easy to comprehend these topics with little to no complicated
+material.
 
-Setting up this blog was enjoyable as well. I had never used jekyll , or heard of it,  before so it was a bit of a learning curve, but I seem to have gotten it working properly. I'll probably check in with the Professor or TA's tomorrow to make sure everything is in order with this blog. I hope that the fact that I wouldn't have to set this platform up again will allow me to raise the quality of my blogs, but other than that, I am really looking forward to OOP.
+This week's articles and web readings had great tips about topics that I don't usually put much thought into, but reminded me that while I am a CS major, there are several other things I should be involved in so I could improve my chances of becoming a successful programmer upon leaving the university.
+
 
 <h2>Tip of the Week: </h2>
-Homebrew makes it easy to install software on the Mac :)
+The atom text editor, which can be obtained from atom.io, has a package called remote edit which allows one to work on files stored on
+one's cs account from home with FTP and SFTP, which makes editing from home much easier. 
