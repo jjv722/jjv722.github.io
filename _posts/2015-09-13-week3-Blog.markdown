@@ -22,6 +22,6 @@ The project description was so specific that I was more afraid of missing one of
 Exceptions and try/catch blocks seem to be the direction we are heading in right now, and it seems to be an interesting subject at that. Project 2 seems to be up as well, so guess I should start heading up my partner soon.
 
 <h2>Tip of the Week: </h2>
-Interesting article I found on Vsauce that shows self-learning robots.
+Interesting article I found on Vsauce that shows self-learning virtual robots.
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004273
 https://www.youtube.com/watch?v=8mlHXcCNzjg
