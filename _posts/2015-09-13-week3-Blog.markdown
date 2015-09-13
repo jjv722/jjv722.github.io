@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Week 3 Post"
+date:   2015-09-13
+categories: week-3-Blog
+---
+
+It's been a while since I've turned in an individual programming project, and it felt great to have a sense of
+"freedom" for a little while, but after having read on the benefits of pair programming, it made me remember how
+much easier simple tasks become as well as how much more entertaining it could have been. The pair-programming
+readings provided some interesting information, such as the fact that some companies would get rid of code written
+by an individual in favor of code that was written by a pair of programmers.
+
+The Bloomberg talk was a great reminder that we will all be graduating soon, and our ultimate goal is to get a job.
+I was glad that a lot of the technologies that Chris said they used at Bloomberg were also used by the company I interned at over the Summer, showing just how universal of a skill set it is. I will more than definitely be visiting
+them at the CNS (more like CS) career fair next week.
+
+Collatz was a great initial project, and while I had not seen much C++ before, I was glad at how similar it was
+to Java and C, allowing me to code effortlessly... for the most part that is. I did have to learn some tricks along the way, such as if I want to modify parameters from within a function, I would have to pass it as a reference.
+The project description was so specific that I was more afraid of missing one of those than the actual algorithmic requirement.
+
+Exceptions and try/catch blocks seem to be the direction we are heading in right now, and it seems to be an interesting subject at that. Project 2 seems to be up as well, so guess I should start heading up my partner soon.
+
+<h2>Tip of the Week: </h2>
+Interesting article I found on Vsauce that shows self-learning robots.
+http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004273
+https://www.youtube.com/watch?v=8mlHXcCNzjg
