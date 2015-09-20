@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Week 4 Post"
+date:   2015-09-20
+categories: week-4-Blog
+---
+
+Good afternoon everyone! This past OOP week, several new topics were introduced. To start off, we now have our new
+asssignment, Project 2, and got some info on 'Voting'. It looks like a simple programming project at first, and in
+fact, kind of is, but once you get around to actually implementing it in C++, it can get a bit confusing and
+frustrating. The files needed to turn in and some of the requirements are very similar to that of Collatz, but one
+major difference is the fact that no code is provided to us, which gives us a lot more freedom from beginning to
+end as to how we could implement our solution. The project description is brief compared to Collatz, which only makes the project more open-ended. My partner and I have been hard at work, and hope to have our final build soon.
+
+Afterwards, we were introduced to in depth concepts involved with try/catch blocks and exceptions, with showing
+how they work, and how passing by reference saves over head. We also got an in depth look at pointers, addresses,
+and references, and how compile time errors are more favored than run-time erros, since compile time errors
+will point at the problem right away. Passing by reference/address is preferred over passing by pointer, since run-time errors are more prone to arise with pointers, while errors associated with references/address are more
+prone to arise as compile time errors.
+
+The articles showed great insight as to how simple programming errors have resulted in the destruction of
+very expensive technology, and looking back now, they were run-time errors. Had they been compile time errors,
+these catastrophes would have been avoided. The other readings dealt more with OOP concepts, and how the 8 queens problems is solved
+in several different languages with OOP concepts.
+
+All in all, very productive week and looking forward to finishing the Voting problem this week with my partner in a couple of days.
+
+p.s. Goodluck to you all at career fair!!!
+
+<h2>Tip of the Week: </h2>
+I've been learning a lot more about atom, and this week, I thought I would share another plugin.
+autocomplete-plus, which makes coding a lot quicker, once you get the shortcuts in order. 
+https://atom.io/packages/autocomplete-plus
