@@ -6,12 +6,12 @@ categories: week-4-Blog
 ---
 Good afternoon everybody, and happy Sunday.
 
-    Starting off the week, we saw how to approach functionality as generic as possible with templates and writing code
+  Starting off the week, we saw how to approach functionality as generic as possible with templates and writing code
 that can be used with several different data types. We implemented an equals, copy, and fill methods in class while we were
 in groups, which helped make the idea of templates even clearer. While changing the template names does not affect the functionality of the code, it does make it more readable from a programmer's perspective, and Dr. Downing emphasized this point
 while in class on Friday.
 
-    The JPL talk on Wednesday was interesting and entertaining. I really enjoyed the description of the work flow process
+  The JPL talk on Wednesday was interesting and entertaining. I really enjoyed the description of the work flow process
 that the they ran and it was very interesting to see the prototypes they had come up with in a few days and how they used videos
 to present the ultimate result of each prototype. The software they had created for the occulus rift and the Microsoft holo lens
 was revolutionary in a sense that it has made it much easier to map the terrain on Mars.
@@ -19,7 +19,7 @@ was revolutionary in a sense that it has made it much easier to map the terrain 
 that were meant to protect our nation's soldiers. The software should have been updated to keep up with the new speeds of missiles
 and to avoid the round-off error that was causing inaccurate readings.
 
-    Another point of emphasis in class was the use of pointers and references throughout the quizzes, so I bet we should be very
+  Another point of emphasis in class was the use of pointers and references throughout the quizzes, so I bet we should be very
 knowledgeable about this come test time. Project 2 was also turned in and I hope everybody was able to turn in the project on time. Seems like the next project will come a little later, so it looks like it's time to start studying for the upcoming midterm!
 
 Have a great Sunday Afternoon Y'all!
