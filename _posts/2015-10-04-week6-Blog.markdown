@@ -33,4 +33,5 @@ Good luck on the Midterm and study hard!
 
 <h2>Tip of the Week: </h2>
 For those of you interested in security, here is an article about a new botnet that hit servers with an 150Gbps DDoS attack.
+
 http://gizmodo.com/a-new-botnet-hits-servers-with-150-gbps-ddos-attacks-1733743786
