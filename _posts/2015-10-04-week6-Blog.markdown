@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Week 6 Post"
+date:   2015-10-04
+categories: week-6-Blog
+---
+Good afternoon everybody!
+
+  This past week in OOP, we saw iterator, Lambda/closure functions, and templates. We began the week by going over examples as
+to how to make general functions using templates and the proper naming schemes to use when assigning the typenames. The my_all_of
+function from the class website shows how to apply these lessons. Typnames should properly describe the iterator that will be using, and if the typename is not an iterator, the typename should be named accordingly.
+
+  The assigned reading from the papers described two different principles, which are, the single responsibility principle and the
+open-closed principle. These principles apply as to how a class is designed. The single responsibilty principle states that
+a class should only have one responsibility. If a class has more than one, than it should be broken down into multiple classes. The open-closed principle states that "Software entities (Classes, Modules, Functions, ETC.) should be open for extension, but
+closed for modification". In other words, when designing a class, the code that is currently being written should not have to
+me modified in order to add more features, but rather, should be designed in such a way that adding new features could be easily
+done by adding new code to the existing code.
+
+  Next, we went over a Lambda and closure functions in class. Lambdas.c++ from the class website shows how lambda functions
+are basically a short-hand notation of 'regular' functions. One difference is that lambda functions can take a snapshot
+of a variable that is declared in the scope of the function, which can then be passed inside the scope of another function.
+If a snapshot is used, the lambda function becomes a closure function. The 'snapshot' can be modified if passed by reference.
+Lambdas.c++ also shows how lambda/closure functions can be converted to other types of functions.
+
+  Finally, we went over how to implement a Range Iterator in class. We first determined that functionality that needed to
+be implemented and then followed by implementing the operators necessary for the the Range Iterator to become functional.
+From what Professor Downing mentioned in class, implementing iterators will be a pivotal part in determining how successful
+you will do in the upcoming midterm. A lot of new material was introduced this past week, but it is all correlated quite nicely.
+
+Good luck on the Midterm and study hard!
+
+
+<h2>Tip of the Week: </h2>
+For those of you interested in security, here is an article about a new botnet that hit servers with an 150Gbps DDoS attack.
+http://gizmodo.com/a-new-botnet-hits-servers-with-150-gbps-ddos-attacks-1733743786
