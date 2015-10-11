@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Week 7 Post"
+date:   2015-10-11
+categories: week-7-Blog
+---
+
+Good afternoon everyone,
+
+  This week was a "short" week in that we only had 2 class days, but was pretty intense in terms of study load preparing for
+the test and all. Class on Monday began with going over a Range class that had a nested iterator class. The concepts that
+were studied were mostly about nesting concepts. We also went over some standard library iterators and functions such as
+sort, reverse, copy, and fill. While we had gone over some of these concepts earlier in class, it was a great review for
+the exam.
+
+  The Tuesday papers were about the Liskov substituion principle and the interface segregation principle. These principles
+add levels of abstraction. The Liskov substitution principle states that classes that use pointers to classes should also be able
+to use objects of derived classes without necessarily knowing that is happening. The interface segregation principle attempts
+to resolve the disadvantages of "fat" interfaces by acknowledging that some classes require non-cohesive interfaces, and that
+classes should not know about these interfaces as a single class.
+
+  Wednesday was mostly review for the exam. We went over the Consts.c++ code and explained the differences between const int c,
+const int* c, int* const c, const int* const c. While the code looks fairly subtle, there are substantial differences between
+all of these notations, such as const inc c requires for the variable to be initialized to a value immediately while const int* c can be initialized at a later point. const int* c also means that it is a read-only pointer, but can be pointed to several locations while int* const c is a read/write pointer, but can only point to one location. Finally, const int* const c is the most limited and would only be allowed read-only permissions and can only be pointed to one location.
+
+  And of course, we had our exam this past Thursday. I will not be discussing the exam here, but I hope everyone did well. All in
+all, not a lot of new material this past week, but a lot of practice and mastery of past material. Project 3 is now up as well, so we should all get started on that pretty soon.
+
+Enjoy the rest of your Sunday afternoons!
+
+
+<h2>Tip of the Week: </h2>
+Cool project I saw on adding more functionality to amazon prime dash buttons.
+https://www.youtube.com/watch?v=e1hmjyNwrCQ 
