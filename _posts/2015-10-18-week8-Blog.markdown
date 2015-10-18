@@ -6,15 +6,15 @@ categories: week-8-Blog
 ---
 Good Afternoon everybody,
 
-    We began the week by going over Project 3. This project requires us to implement a "poor man's heap" with a variable char
-    sized array. The implementation is a bit unique, but makes plenty of sense once the design is laid out. As a recap, we went over the functionality of what our Allocator should do, which is have a constructor, an allocate and deallocate function, and an is_valid function that checks that the heap is following all the general sentinel requirements. The program is due this Thursday and I hope everyone has at least looked at the project desctiption at this point.
+We began the week by going over Project 3. This project requires us to implement a "poor man's heap" with a variable char
+sized array. The implementation is a bit unique, but makes plenty of sense once the design is laid out. As a recap, we went over the functionality of what our Allocator should do, which is have a constructor, an allocate and deallocate function, and an is_valid function that checks that the heap is following all the general sentinel requirements. The program is due this Thursday and I hope everyone has at least looked at the project desctiption at this point.
 
-    The assigned readings were continuations from the past few weeks about certain OOP related principles. The Dependency Inversion principle was the first reading we went over. This idea stems from the two ideas that high level modules should not be dependent on low level modules, but rather on abstraction, and the idea that abstractions should not depend on details. Granularity has several principles that deal as to how to "package" classes together. Both of these principles followed a similar approach that the past described principles went over.
+The assigned readings were continuations from the past few weeks about certain OOP related principles. The Dependency Inversion principle was the first reading we went over. This idea stems from the two ideas that high level modules should not be dependent on low level modules, but rather on abstraction, and the idea that abstractions should not depend on details. Granularity has several principles that deal as to how to "package" classes together. Both of these principles followed a similar approach that the past described principles went over.
 
-    Next, we went over array manipulation in class once again, with several special cases being shown in the Arrays.c++ example.     we also went over default constructors, and how they are essentially called when building new objects. We went over several examples in the FunctionDefualts.c++ from the github repo. These two c++ files will help solidify one's understanding on pointer arithmetic with arrays as well as one's understanding on which constructors are used when making objects, and how initializing them also affects the way in which they are constructed.
+Next, we went over array manipulation in class once again, with several special cases being shown in the Arrays.c++ example.     we also went over default constructors, and how they are essentially called when building new objects. We went over several examples in the FunctionDefualts.c++ from the github repo. These two c++ files will help solidify one's understanding on pointer arithmetic with arrays as well as one's understanding on which constructors are used when making objects, and how initializing them also affects the way in which they are constructed.
 
-    Grades for project 2 and test #1 are available, and project 3 is due this Thursday by 10 P.M. Hope everyone has a great rest of the week!
+Grades for project 2 and test 1 are available, and project 3 is due this Thursday by 10 P.M. Hope everyone has a great rest of the week!
 
 <h2>Tip of the Week: </h2>
-Interesting Article on AI.
-http://gizmodo.com/experts-warn-un-panel-about-the-dangers-of-artificial-s-1736932856 
+Interesting Article on AI. \n
+http://gizmodo.com/experts-warn-un-panel-about-the-dangers-of-artificial-s-1736932856
