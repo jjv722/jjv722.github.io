@@ -16,5 +16,6 @@ Next, we went over array manipulation in class once again, with several special 
 Grades for project 2 and test 1 are available, and project 3 is due this Thursday by 10 P.M. Hope everyone has a great rest of the week!
 
 <h2>Tip of the Week: </h2>
-Interesting Article on AI. \n
+Interesting Article on AI.
+
 http://gizmodo.com/experts-warn-un-panel-about-the-dangers-of-artificial-s-1736932856
