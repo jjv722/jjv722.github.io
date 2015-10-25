@@ -6,36 +6,36 @@ categories: week-9-Blog
 ---
 Good afternoon everybody,
 
-	We began the week by implementing our own container. We implemented a poor man's vector
-first, which was fairly inefficient since it needed two linear passes in order to both 
+We began the week by implementing our own container. We implemented a poor man's vector
+first, which was fairly inefficient since it needed two linear passes in order to both
 construct, and assign the values at each index in the vector. The "poor man's vector" had
-a constructor, where we defined default paramaters, a destructor, a bracket's operator,
+a constructor, where we defined default parameters, a destructor, a bracket's operator,
 begin, end, and size functions. While it was a simple implementation, we were challenged
 by making it more efficient in terms of saving time and space. Next, we went over how to make
-it more efficient, which turned out to be using an allocator for memory management. 
+it more efficient, which turned out to be using an allocator for memory management.
 
-	The allocator was implemented as a template argument in order to use whichever allocator
+The allocator was implemented as a template argument in order to use whichever allocator
 is more applicable, and certain function calls had to be modified at the constructor level.
-For one, fill would not work since fill requires the values to be initialized already, 
+For one, fill would not work since fill requires the values to be initialized already,
 so we had to implement that functionality manually. This actually resulted in saving
-space and time because we were able to use the copy constructor instead of having to 
+space and time because we were able to use the copy constructor instead of having to
 construct then assign. We also went over how different containers can be implemented
 with other containers, depending on whether or not the functionality is implemented
-and is efficient. It is interesting to not that the naming schema that the std uses 
-actually plays a role into whether or not a container can be implemented using another 
-container. 
+and is efficient. It is interesting to not that the naming schema that the std uses
+actually plays a role into whether or not a container can be implemented using another
+container.
 
 Aside from going over these topics in class, we also finished up Project 3, which was
 great in practicing basic memory management. The assigned readings for the week continued
 on the premise of what "ideal" object oriented programing is, and have been getting
-more and more specific as the weeks have gone by. Project 4 is now up, which is named 
-Darwin, and is similar to a project that we had done in 314 for those who took it with 
-Mike Scott. 
+more and more specific as the weeks have gone by. Project 4 is now up, which is named
+Darwin, and is similar to a project that we had done in 314 for those who took it with
+Mike Scott.
 
 Have a great week!
 
 <h2>Tip of the Week: </h2>
-Great article on how some LA high school students are contributing to an earthquake 
-warning system. 
+Great article on how some LA high school students are contributing to an earthquake
+warning system.
 
 http://gizmodo.com/la-high-school-students-will-help-test-the-regions-new-1738371355
