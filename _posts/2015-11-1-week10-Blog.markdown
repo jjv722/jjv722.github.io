@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week 10 Post"
+date:   2015-11-1
+categories: week-10-Blog
+---
+Happy Halloween Everybody!
+
+This past Monday we went over Project 4: Darwin. While the past projects did involve few object-oriented design principles, Darwin relies on oop principles much more heavily. Not much information is given in the project page, so many of the requirements are left to figure out on our own. The project does not allow for the use of getters and setters since they go against many oop design principles, and therefore, must create objects that
+do the work for us. The papers from Tuesday go deeper into why accessors are bad design. One new requirement that this project has that the other projects didn't have is that of making a UML diagram. I am not too familiar with UML and haven't really looked into it deeply yet, but it looks like
+it is going to be a way to represent relationships between classes. Once again, I am a complete noob when it comes to UML.
+
+On Wednesday we had a talk from Conrad Stoll from Mutual Mobile. He addressed many principles about open source projects and gave various tips as to how to contribute and how open source projects are created and used in the professional environment. On Friday, the day of the severe thunderstorm, we implemented a stack, which was similar to how the vector was created. The same principles that we had gone over last week applied, which was that only certain containers can be used to implement a stack and queue, depending on the implementation of the container and the functions it contains.
+
+Have a great rest of the weekend and goodluck on the project!
+
+
+
+<h2>Tip of the Week: </h2>
+I found an interesting article stating that the State department was close to classifying "Cyber Products" in the same category as hand grenades.
+https://www.eff.org/deeplinks/2015/10/victory-state-department-decides-not-classify-cyber-products-munitions 
