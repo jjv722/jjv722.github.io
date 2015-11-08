@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Week 11 Post"
+date:   2015-11-8
+categories: week-11-Blog
+---
+Good Afternoon everybody,
+
+  We began the week by finishing off building the stack. The stack was was implemented using typedef variables once again and we implemented equal and less than operators. It was pretty simple to implement and did not require much thought. The code is not up on Monday as to what we went over, but if my memory is correct, this was all we did.
+
+  On Wednesday we went over function overloading and how it works in C++. According to the code that we went over the class and the lecture from Wednesday, a function can be overloaded either by using new parameters or new return types. We also ended up fixing the vector because there were issues that were being brought up when using the default constructor and also when vectors were being copied with the assignment operator. We also learned the used of the word 'explicit' in order for the compiler to know when to use what constructor.
+
+  The following day, Darwin was due, and I would say that this project was the first one that made much use of several OOP concepts. It was an interesting one in that most of the project came from design, and learning to use UML in order to show the relationships between classes and objects show how important design was. j
+
+  Finally, on Friday we began going over inheritance, and how it works in c++. We compared inheritance in java with inheritance in c++, and learned the differences between static and dynamic binding. We also went over the private, protected, and public keywords and also the differences between a struct and a class in c++. The relationships between classes when using the keywords private, protected, and public were also covered with some great analogies in order to not forget how these work.
+
+  We seem to be covering more OOP concepts now, and it will be interesting to relearn the concepts and implement them using C++ in the last few weeks. Project 5 should be up soon and hope you all have a great rest of the week.
+
+
+
+
+<h2>Tip of the Week: </h2>
+Interesting article as to how technology is being used in space.
+http://gizmodo.com/how-are-laptops-used-on-the-international-space-station-1740973548?trending_test_c&utm_expid=66866090-62.H_y_0o51QhmMY_tue7bevQ.3&utm_referrer=http%3A%2F%2Fgizmodo.com%2F%3Ftrending_test_c%26startTime%3D1446835800687 
