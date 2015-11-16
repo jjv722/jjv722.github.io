@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Week 12 Post"
+date:   2015-11-15
+categories: week-12-Blog
+---
+Good evening everybody,
+
+  This past week we started of by going over the project specs for Life. It is similar to Darwin in that there is a board involved, but that's about as far as the similarities go. Each cell only has two states, each cell extends from an abstract cell class, and there is also a cell handler class that can be instantiated as either a ConwayCell or a Fredkin Cell. Life can be instantiated with any of these three cells as a template argument. My partner and I are now almost finished with it, and now need to go back and finish cleaning the code,test cases, documenting, and writing that oh so spectacular UML diagram
+
+  We also had a nice talk from two representatives from Atlassian, which was nice since a lot of companies use their products for their workflows. I was familiar with some of their products because they were used at my past internship, but it was interesting to see that they used their own products in order to further develop products... a paradox of sorts.
+
+  We finished off the week by finishing where we had left off in shapes, and finished going over how abstract classes work in shape.
+  Polymorphism was the name of the game for most of that day, and its going to be interesting to see how much further we can go into the OOP aspect of c++.
+
+  Good luck on the project and keep studying for that final as it is now fairly close!
+
+
+
+<h2>Tip of the Week: </h2>
+Article on an MIT algorithm that can detect micro-expressions.
+
+http://gizmodo.com/your-poker-face-doesnt-stand-a-chance-against-this-bs-b-1742406032
