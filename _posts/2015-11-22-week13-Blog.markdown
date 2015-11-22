@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Week 13 Post"
+date:   2015-11-22
+categories: week-13-Blog
+---
+Good evening everybody,
+
+  This past week, we began by continuing to go over method overriding in c++. On Monday, we continued to go over virtual functions, pure virtual functions, and also got some helpful tips as to how we could implement Life. Pure virtual functions need to be implemented by all the children and are used as a design mechanism. A virtual function may or may not be implemented by a child, but if a child's method header does not mach that of the parent's virtual method header, then the paren't virtual function runs. On another not, making a destructor a pure virtual function in a class has only the consequence of making that class abstract, with no other consequences. We continued to go over helpful Life tips such as using a moat and enhancements such as only processing when a live cell is met.
+
+  On Wednesday, we continued our discussion on shapes, which is pretty similar as to how and when functions are called when dealing with inheritance. We also went over using a clone function, which creates a deep copy of an instance of a child for a handler class, and was also used for our implementation of Life. It was essential in order to properly construct Conway and Fredkin Cells in our Cell class. This was also essential in the shapes class in order to properly handle different kinds of shapes. Life was also turned in on the following day, and was a project that correlated heavily with lecture. Several OOP concepts were used, and in fact, were needed in order to properly implement the project.
+
+  Finally, on Friday, we went over a comparison of a class called Reflection.java, and compared the inheritance in Java with that of c++. Java makes a lot of things easier in terms of being able to implement children from interfaces and abstract classes. We also went over using the keyword static in functions and on a global scope, and the effect it has on variables and their lifetime in memory in a c++ program. There were several key differences, with the main difference being whether only scope changed or with only scope not changing. Pretty interesting concepts for c++ when being compared to java.
+
+  No more projects, but now, we need to study heavily for that final. Have a happy thanksgiving everybody!
+
+<h2>Tip of the Week: </h2>
+Cool article on some of the consequences of not properly handling the disposal of parts from early computers.
+
+http://gizmodo.com/the-secret-history-of-silicon-valley-and-the-toxic-remn-1743622225?sidebar_promotions_icons=testingon&utm_expid=66866090-67.e9PWeE2DSnKObFD7vNEoqg.2&utm_referrer=http%3A%2F%2Fgizmodo.com%2F%3Fsidebar_promotions_icons%3Dtestingon%26startTime%3D1448136000663
