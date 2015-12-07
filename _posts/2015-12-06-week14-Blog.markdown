@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Week 14 Post"
+date:   2015-12-06
+categories: week-14-Blog
+---
+Good evening everybody,
+
+OOP has finally ended. The last week was all instructional, and we finished off going over
+Handle classes. We were shown Handle 2, which removes the need to implement specific functions
+each time one wanted to implement a handle, but didn't allow as a substitute for whatever
+the handle wrapped about. Handle 3 was more practical in that it had the advantage
+that handle 2 had while being able to used as a replacement for the handle it was made of. 
+This was done with use of a struct that was name count and allowed for greater efficiency
+by reducing the number of needed constructions by keeping a reference counter. It was
+interesting to note that our project 5 could have been modified to fit these handle class templates,
+which would have improved bot the readability and the efficiency of our code.  These 
+were the final things we reviewed before the test. 
+
+
+While we did not have a project, reviewing a lot of the past material while going over the
+final, reminded me of how much I have learned through this class and how much more
+proficient I have become with c++. This class was a lot of work, but very worthwhile and
+enjoyable. I have become much more efficient and confident in using pointers, and have
+also become more knowledgable in several of the nuances of c++. The talks that were held
+throughout the semester reminded me of what was to come after graduation. 
+
+I'm sure all of us are looking forward to receiving our grades for both project 5 and the final. All in all, I 
+really enjoyed the class and am glad to have been a part of it this semester. Goodluck on the rest of 
+your finals!!
+
+
+  
+
+<h2>Tip of the Week: </h2>
+Cool Baylor study I found that shows a unique way to generate random numbers that could be
+used for encryption. 
+
+http://arxiv.org/pdf/1511.02511v2.pdf
